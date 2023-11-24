@@ -1,0 +1,1528 @@
+{
+  "data": {
+    "nutritionFacts": [
+      {
+        "displayOrder": 1,
+        "nutrient": {
+          "name": "Calories",
+          "amount": 435.04456,
+          "amountRounded": 440,
+          "unit": "kcal"
+        }
+      },
+      {
+        "displayOrder": 2,
+        "nutrient": {
+          "name": "Total fat",
+          "amount": 28.7485208,
+          "amountRounded": 29,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 78,
+          "unit": "g",
+          "percentDailyValue": 36.85707794871795,
+          "percentDailyValueRounded": 37
+        },
+        "children": [
+          {
+            "displayOrder": 1,
+            "nutrient": {
+              "name": "Saturated fat",
+              "amount": 3.9963937599999997,
+              "amountRounded": 4,
+              "unit": "g"
+            },
+            "rdi": {
+              "amount": 20,
+              "unit": "g",
+              "percentDailyValue": 19.9819688,
+              "percentDailyValueRounded": 20
+            }
+          },
+          {
+            "displayOrder": 3,
+            "nutrient": {
+              "name": "Polyunsaturated fat",
+              "amount": 5.77667416,
+              "amountRounded": 6,
+              "unit": "g"
+            }
+          },
+          {
+            "displayOrder": 4,
+            "nutrient": {
+              "name": "Monounsaturated fat",
+              "amount": 15.17023568,
+              "amountRounded": 16,
+              "unit": "g"
+            }
+          }
+        ]
+      },
+      {
+        "displayOrder": 3,
+        "nutrient": {
+          "name": "Cholesterol",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 300,
+          "unit": "mg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 4,
+        "nutrient": {
+          "name": "Sodium",
+          "amount": 250.90376,
+          "amountRounded": 260,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 2300,
+          "unit": "mg",
+          "percentDailyValue": 10.908859130434783,
+          "percentDailyValueRounded": 11
+        }
+      },
+      {
+        "displayOrder": 6,
+        "nutrient": {
+          "name": "Carbohydrate, total",
+          "amount": 32.84376639999999,
+          "amountRounded": 33,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 275,
+          "unit": "g",
+          "percentDailyValue": 11.94318778181818,
+          "percentDailyValueRounded": 12
+        },
+        "children": [
+          {
+            "displayOrder": 1,
+            "nutrient": {
+              "name": "Dietary fiber",
+              "amount": 28.647271999999997,
+              "amountRounded": 29,
+              "unit": "g"
+            },
+            "rdi": {
+              "amount": 28,
+              "unit": "g",
+              "percentDailyValue": 102.3116857142857,
+              "percentDailyValueRounded": 102
+            }
+          },
+          {
+            "displayOrder": 2,
+            "nutrient": {
+              "name": "Total Sugars",
+              "amount": 4.618736,
+              "amountRounded": 5,
+              "unit": "g"
+            }
+          }
+        ]
+      },
+      {
+        "displayOrder": 7,
+        "nutrient": {
+          "name": "Protein",
+          "amount": 16.2448864,
+          "amountRounded": 16,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 50,
+          "unit": "g",
+          "percentDailyValue": 32.4897728,
+          "percentDailyValueRounded": 32
+        }
+      },
+      {
+        "displayOrder": 8,
+        "nutrient": {
+          "name": "Vitamin D",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 20,
+          "unit": "mcg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 9,
+        "nutrient": {
+          "name": "Calcium",
+          "amount": 1170.12368,
+          "amountRounded": 1170.12,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1300,
+          "unit": "mg",
+          "percentDailyValue": 90.00951384615384,
+          "percentDailyValueRounded": 90
+        }
+      },
+      {
+        "displayOrder": 10,
+        "nutrient": {
+          "name": "Iron",
+          "amount": 8.082472,
+          "amountRounded": 8.08,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 18,
+          "unit": "mg",
+          "percentDailyValue": 44.90262222222221,
+          "percentDailyValueRounded": 45
+        }
+      },
+      {
+        "displayOrder": 11,
+        "nutrient": {
+          "name": "Potassium",
+          "amount": 2306.00016,
+          "amountRounded": 2306,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 4700,
+          "unit": "mg",
+          "percentDailyValue": 49.063833191489366,
+          "percentDailyValueRounded": 50
+        }
+      },
+      {
+        "displayOrder": 12,
+        "nutrient": {
+          "name": "Vitamin A",
+          "amount": 1103.65672,
+          "amountRounded": 1103.66,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 900,
+          "unit": "mcg",
+          "percentDailyValue": 122.62852444444444,
+          "percentDailyValueRounded": 120
+        }
+      },
+      {
+        "displayOrder": 13,
+        "nutrient": {
+          "name": "Vitamin C",
+          "amount": 438.654928,
+          "amountRounded": 438.65,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 90,
+          "unit": "mg",
+          "percentDailyValue": 487.3943644444444,
+          "percentDailyValueRounded": 490
+        }
+      },
+      {
+        "displayOrder": 14,
+        "nutrient": {
+          "name": "Vitamin E",
+          "amount": 6.0987072,
+          "amountRounded": 6.1,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 15,
+          "unit": "mg",
+          "percentDailyValue": 40.658047999999994,
+          "percentDailyValueRounded": 40
+        }
+      },
+      {
+        "displayOrder": 15,
+        "nutrient": {
+          "name": "Vitamin K",
+          "amount": 1800.5087999999998,
+          "amountRounded": 1800.51,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 120,
+          "unit": "mcg",
+          "percentDailyValue": 1500.424,
+          "percentDailyValueRounded": 1500
+        }
+      },
+      {
+        "displayOrder": 16,
+        "nutrient": {
+          "name": "Thiamin",
+          "amount": 0.6130589599999999,
+          "amountRounded": 0.61,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.2,
+          "unit": "mg",
+          "percentDailyValue": 51.088246666666656,
+          "percentDailyValueRounded": 50
+        }
+      },
+      {
+        "displayOrder": 17,
+        "nutrient": {
+          "name": "Riboflavin",
+          "amount": 1.7689642399999999,
+          "amountRounded": 1.77,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.3,
+          "unit": "mg",
+          "percentDailyValue": 136.0741723076923,
+          "percentDailyValueRounded": 140
+        }
+      },
+      {
+        "displayOrder": 18,
+        "nutrient": {
+          "name": "Niacin",
+          "amount": 7.959385599999999,
+          "amountRounded": 7.96,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 16,
+          "unit": "mg",
+          "percentDailyValue": 49.746159999999996,
+          "percentDailyValueRounded": 50
+        }
+      },
+      {
+        "displayOrder": 19,
+        "nutrient": {
+          "name": "Vitamin B6",
+          "amount": 1.05228024,
+          "amountRounded": 1.05,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.7,
+          "unit": "mg",
+          "percentDailyValue": 61.898837647058826,
+          "percentDailyValueRounded": 60
+        }
+      },
+      {
+        "displayOrder": 20,
+        "nutrient": {
+          "name": "Folate",
+          "amount": 402.72704,
+          "amountRounded": 402.73,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 400,
+          "unit": "mcg",
+          "percentDailyValue": 100.68176,
+          "percentDailyValueRounded": 100
+        }
+      },
+      {
+        "displayOrder": 21,
+        "nutrient": {
+          "name": "Vitamin B12",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 2.4,
+          "unit": "mcg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 24,
+        "nutrient": {
+          "name": "Phosphorus",
+          "amount": 327.4756,
+          "amountRounded": 327.48,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1250,
+          "unit": "mg",
+          "percentDailyValue": 26.198048,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 26,
+        "nutrient": {
+          "name": "Magnesium",
+          "amount": 193.18536,
+          "amountRounded": 193.19,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 420,
+          "unit": "mg",
+          "percentDailyValue": 45.996514285714284,
+          "percentDailyValueRounded": 45
+        }
+      },
+      {
+        "displayOrder": 27,
+        "nutrient": {
+          "name": "Zinc",
+          "amount": 2.7290088000000003,
+          "amountRounded": 2.73,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 11,
+          "unit": "mg",
+          "percentDailyValue": 24.809170909090913,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 28,
+        "nutrient": {
+          "name": "Selenium",
+          "amount": 4.682328,
+          "amountRounded": 4.68,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 55,
+          "unit": "mcg",
+          "percentDailyValue": 8.513323636363635,
+          "percentDailyValueRounded": 8
+        }
+      },
+      {
+        "displayOrder": 29,
+        "nutrient": {
+          "name": "Copper",
+          "amount": 0.52540376,
+          "amountRounded": 0.53,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 0.9,
+          "unit": "mg",
+          "percentDailyValue": 58.37819555555556,
+          "percentDailyValueRounded": 60
+        }
+      },
+      {
+        "displayOrder": 34,
+        "nutrient": {
+          "name": "Choline",
+          "amount": 23.567959999999996,
+          "amountRounded": 23.57,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 550,
+          "unit": "mg",
+          "percentDailyValue": 4.285083636363636,
+          "percentDailyValueRounded": 4
+        }
+      }
+    ],
+    "nutritionFactsPerServing": [
+      {
+        "displayOrder": 1,
+        "nutrient": {
+          "name": "Calories",
+          "amount": 217.52228,
+          "amountRounded": 220,
+          "unit": "kcal"
+        }
+      },
+      {
+        "displayOrder": 2,
+        "nutrient": {
+          "name": "Total fat",
+          "amount": 14.3742604,
+          "amountRounded": 15,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 78,
+          "unit": "g",
+          "percentDailyValue": 18.428538974358975,
+          "percentDailyValueRounded": 18
+        },
+        "children": [
+          {
+            "displayOrder": 1,
+            "nutrient": {
+              "name": "Saturated fat",
+              "amount": 1.9981968799999998,
+              "amountRounded": 2,
+              "unit": "g"
+            },
+            "rdi": {
+              "amount": 20,
+              "unit": "g",
+              "percentDailyValue": 9.9909844,
+              "percentDailyValueRounded": 10
+            }
+          },
+          {
+            "displayOrder": 3,
+            "nutrient": {
+              "name": "Polyunsaturated fat",
+              "amount": 2.88833708,
+              "amountRounded": 3,
+              "unit": "g"
+            }
+          },
+          {
+            "displayOrder": 4,
+            "nutrient": {
+              "name": "Monounsaturated fat",
+              "amount": 7.58511784,
+              "amountRounded": 8,
+              "unit": "g"
+            }
+          }
+        ]
+      },
+      {
+        "displayOrder": 3,
+        "nutrient": {
+          "name": "Cholesterol",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 300,
+          "unit": "mg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 4,
+        "nutrient": {
+          "name": "Sodium",
+          "amount": 125.45188,
+          "amountRounded": 130,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 2300,
+          "unit": "mg",
+          "percentDailyValue": 5.454429565217391,
+          "percentDailyValueRounded": 5
+        }
+      },
+      {
+        "displayOrder": 6,
+        "nutrient": {
+          "name": "Carbohydrate, total",
+          "amount": 16.421883199999996,
+          "amountRounded": 16,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 275,
+          "unit": "g",
+          "percentDailyValue": 5.97159389090909,
+          "percentDailyValueRounded": 6
+        },
+        "children": [
+          {
+            "displayOrder": 1,
+            "nutrient": {
+              "name": "Dietary fiber",
+              "amount": 14.323635999999999,
+              "amountRounded": 14,
+              "unit": "g"
+            },
+            "rdi": {
+              "amount": 28,
+              "unit": "g",
+              "percentDailyValue": 51.15584285714285,
+              "percentDailyValueRounded": 51
+            }
+          },
+          {
+            "displayOrder": 2,
+            "nutrient": {
+              "name": "Total Sugars",
+              "amount": 2.309368,
+              "amountRounded": 2,
+              "unit": "g"
+            }
+          }
+        ]
+      },
+      {
+        "displayOrder": 7,
+        "nutrient": {
+          "name": "Protein",
+          "amount": 8.1224432,
+          "amountRounded": 8,
+          "unit": "g"
+        },
+        "rdi": {
+          "amount": 50,
+          "unit": "g",
+          "percentDailyValue": 16.2448864,
+          "percentDailyValueRounded": 16
+        }
+      },
+      {
+        "displayOrder": 8,
+        "nutrient": {
+          "name": "Vitamin D",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 20,
+          "unit": "mcg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 9,
+        "nutrient": {
+          "name": "Calcium",
+          "amount": 585.06184,
+          "amountRounded": 585.06,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1300,
+          "unit": "mg",
+          "percentDailyValue": 45.00475692307692,
+          "percentDailyValueRounded": 45
+        }
+      },
+      {
+        "displayOrder": 10,
+        "nutrient": {
+          "name": "Iron",
+          "amount": 4.041236,
+          "amountRounded": 4.04,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 18,
+          "unit": "mg",
+          "percentDailyValue": 22.451311111111107,
+          "percentDailyValueRounded": 20
+        }
+      },
+      {
+        "displayOrder": 11,
+        "nutrient": {
+          "name": "Potassium",
+          "amount": 1153.00008,
+          "amountRounded": 1153,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 4700,
+          "unit": "mg",
+          "percentDailyValue": 24.531916595744683,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 12,
+        "nutrient": {
+          "name": "Vitamin A",
+          "amount": 551.82836,
+          "amountRounded": 551.83,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 900,
+          "unit": "mcg",
+          "percentDailyValue": 61.31426222222222,
+          "percentDailyValueRounded": 60
+        }
+      },
+      {
+        "displayOrder": 13,
+        "nutrient": {
+          "name": "Vitamin C",
+          "amount": 219.327464,
+          "amountRounded": 219.33,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 90,
+          "unit": "mg",
+          "percentDailyValue": 243.6971822222222,
+          "percentDailyValueRounded": 240
+        }
+      },
+      {
+        "displayOrder": 14,
+        "nutrient": {
+          "name": "Vitamin E",
+          "amount": 3.0493536,
+          "amountRounded": 3.05,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 15,
+          "unit": "mg",
+          "percentDailyValue": 20.329023999999997,
+          "percentDailyValueRounded": 20
+        }
+      },
+      {
+        "displayOrder": 15,
+        "nutrient": {
+          "name": "Vitamin K",
+          "amount": 900.2543999999999,
+          "amountRounded": 900.25,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 120,
+          "unit": "mcg",
+          "percentDailyValue": 750.212,
+          "percentDailyValueRounded": 750
+        }
+      },
+      {
+        "displayOrder": 16,
+        "nutrient": {
+          "name": "Thiamin",
+          "amount": 0.30652947999999997,
+          "amountRounded": 0.31,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.2,
+          "unit": "mg",
+          "percentDailyValue": 25.544123333333328,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 17,
+        "nutrient": {
+          "name": "Riboflavin",
+          "amount": 0.8844821199999999,
+          "amountRounded": 0.88,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.3,
+          "unit": "mg",
+          "percentDailyValue": 68.03708615384615,
+          "percentDailyValueRounded": 70
+        }
+      },
+      {
+        "displayOrder": 18,
+        "nutrient": {
+          "name": "Niacin",
+          "amount": 3.9796927999999996,
+          "amountRounded": 3.98,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 16,
+          "unit": "mg",
+          "percentDailyValue": 24.873079999999998,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 19,
+        "nutrient": {
+          "name": "Vitamin B6",
+          "amount": 0.52614012,
+          "amountRounded": 0.53,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1.7,
+          "unit": "mg",
+          "percentDailyValue": 30.949418823529413,
+          "percentDailyValueRounded": 30
+        }
+      },
+      {
+        "displayOrder": 20,
+        "nutrient": {
+          "name": "Folate",
+          "amount": 201.36352,
+          "amountRounded": 201.36,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 400,
+          "unit": "mcg",
+          "percentDailyValue": 50.34088,
+          "percentDailyValueRounded": 50
+        }
+      },
+      {
+        "displayOrder": 21,
+        "nutrient": {
+          "name": "Vitamin B12",
+          "amount": 0,
+          "amountRounded": 0,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 2.4,
+          "unit": "mcg",
+          "percentDailyValue": 0,
+          "percentDailyValueRounded": 0
+        }
+      },
+      {
+        "displayOrder": 24,
+        "nutrient": {
+          "name": "Phosphorus",
+          "amount": 163.7378,
+          "amountRounded": 163.74,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 1250,
+          "unit": "mg",
+          "percentDailyValue": 13.099024,
+          "percentDailyValueRounded": 15
+        }
+      },
+      {
+        "displayOrder": 26,
+        "nutrient": {
+          "name": "Magnesium",
+          "amount": 96.59268,
+          "amountRounded": 96.59,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 420,
+          "unit": "mg",
+          "percentDailyValue": 22.998257142857142,
+          "percentDailyValueRounded": 25
+        }
+      },
+      {
+        "displayOrder": 27,
+        "nutrient": {
+          "name": "Zinc",
+          "amount": 1.3645044000000002,
+          "amountRounded": 1.36,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 11,
+          "unit": "mg",
+          "percentDailyValue": 12.404585454545456,
+          "percentDailyValueRounded": 10
+        }
+      },
+      {
+        "displayOrder": 28,
+        "nutrient": {
+          "name": "Selenium",
+          "amount": 2.341164,
+          "amountRounded": 2.34,
+          "unit": "mcg"
+        },
+        "rdi": {
+          "amount": 55,
+          "unit": "mcg",
+          "percentDailyValue": 4.256661818181818,
+          "percentDailyValueRounded": 4
+        }
+      },
+      {
+        "displayOrder": 29,
+        "nutrient": {
+          "name": "Copper",
+          "amount": 0.26270188,
+          "amountRounded": 0.26,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 0.9,
+          "unit": "mg",
+          "percentDailyValue": 29.18909777777778,
+          "percentDailyValueRounded": 30
+        }
+      },
+      {
+        "displayOrder": 34,
+        "nutrient": {
+          "name": "Choline",
+          "amount": 11.783979999999998,
+          "amountRounded": 11.78,
+          "unit": "mg"
+        },
+        "rdi": {
+          "amount": 550,
+          "unit": "mg",
+          "percentDailyValue": 2.142541818181818,
+          "percentDailyValueRounded": 2
+        }
+      }
+    ],
+    "analysisResult": {
+      "ingredients": [
+        {
+          "name": "Avocado, raw",
+          "quantity": 1,
+          "unit": "fruit",
+          "unitInG": 150,
+          "quantityInG": 150
+        },
+        {
+          "name": "Kale, raw",
+          "quantity": 1,
+          "unit": "lb",
+          "unitInG": 453.592,
+          "quantityInG": 453.592
+        }
+      ],
+      "nutrition": [
+        {
+          "name": "Calories",
+          "totalG": 435.04456,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 160,
+              "valueInQuantityG": 240
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 43,
+              "valueInQuantityG": 195.04456
+            }
+          ]
+        },
+        {
+          "name": "Total fat",
+          "totalG": 28.7485208,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 14.66,
+              "valueInQuantityG": 21.990000000000002
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 1.49,
+              "valueInQuantityG": 6.758520799999999
+            }
+          ]
+        },
+        {
+          "name": "Saturated fat",
+          "totalG": 3.9963937599999997,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 2.126,
+              "valueInQuantityG": 3.1889999999999996
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.178,
+              "valueInQuantityG": 0.80739376
+            }
+          ]
+        },
+        {
+          "name": "Trans fat",
+          "ingredients": []
+        },
+        {
+          "name": "Polyunsaturated fat",
+          "totalG": 5.77667416,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 1.816,
+              "valueInQuantityG": 2.7239999999999998
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.673,
+              "valueInQuantityG": 3.05267416
+            }
+          ]
+        },
+        {
+          "name": "Monounsaturated fat",
+          "totalG": 15.17023568,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 9.799,
+              "valueInQuantityG": 14.6985
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.104,
+              "valueInQuantityG": 0.47173567999999994
+            }
+          ]
+        },
+        {
+          "name": "Cholesterol",
+          "totalG": 0,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            }
+          ]
+        },
+        {
+          "name": "Sodium",
+          "totalG": 250.90376,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 7,
+              "valueInQuantityG": 10.500000000000002
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 53,
+              "valueInQuantityG": 240.40376
+            }
+          ]
+        },
+        {
+          "name": "Fluoride",
+          "ingredients": []
+        },
+        {
+          "name": "Carbohydrate, total",
+          "totalG": 32.84376639999999,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 8.53,
+              "valueInQuantityG": 12.794999999999998
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 4.42,
+              "valueInQuantityG": 20.048766399999998
+            }
+          ]
+        },
+        {
+          "name": "Dietary fiber",
+          "totalG": 28.647271999999997,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 6.7,
+              "valueInQuantityG": 10.05
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 4.1,
+              "valueInQuantityG": 18.597271999999997
+            }
+          ]
+        },
+        {
+          "name": "Soluble fiber",
+          "ingredients": []
+        },
+        {
+          "name": "Insoluble fiber",
+          "ingredients": []
+        },
+        {
+          "name": "Total Sugars",
+          "totalG": 4.618736,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.66,
+              "valueInQuantityG": 0.99
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.8,
+              "valueInQuantityG": 3.628736
+            }
+          ]
+        },
+        {
+          "name": "Added Sugars",
+          "ingredients": []
+        },
+        {
+          "name": "Sugar alcohol",
+          "ingredients": []
+        },
+        {
+          "name": "Protein",
+          "totalG": 16.2448864,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 2,
+              "valueInQuantityG": 3
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 2.92,
+              "valueInQuantityG": 13.2448864
+            }
+          ]
+        },
+        {
+          "name": "Vitamin D",
+          "totalG": 0,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            }
+          ]
+        },
+        {
+          "name": "Calcium",
+          "totalG": 1170.12368,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 12,
+              "valueInQuantityG": 18
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 254,
+              "valueInQuantityG": 1152.12368
+            }
+          ]
+        },
+        {
+          "name": "Iron",
+          "totalG": 8.082472,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.55,
+              "valueInQuantityG": 0.8250000000000001
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 1.6,
+              "valueInQuantityG": 7.257472
+            }
+          ]
+        },
+        {
+          "name": "Potassium",
+          "totalG": 2306.00016,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 485,
+              "valueInQuantityG": 727.5
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 348,
+              "valueInQuantityG": 1578.50016
+            }
+          ]
+        },
+        {
+          "name": "Vitamin A",
+          "totalG": 1103.65672,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 7,
+              "valueInQuantityG": 10.500000000000002
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 241,
+              "valueInQuantityG": 1093.15672
+            }
+          ]
+        },
+        {
+          "name": "Vitamin C",
+          "totalG": 438.654928,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 10,
+              "valueInQuantityG": 15
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 93.4,
+              "valueInQuantityG": 423.654928
+            }
+          ]
+        },
+        {
+          "name": "Vitamin E",
+          "totalG": 6.0987072,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 2.07,
+              "valueInQuantityG": 3.105
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.66,
+              "valueInQuantityG": 2.9937072
+            }
+          ]
+        },
+        {
+          "name": "Vitamin K",
+          "totalG": 1800.5087999999998,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 21,
+              "valueInQuantityG": 31.5
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 390,
+              "valueInQuantityG": 1769.0087999999998
+            }
+          ]
+        },
+        {
+          "name": "Thiamin",
+          "totalG": 0.6130589599999999,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.067,
+              "valueInQuantityG": 0.1005
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.113,
+              "valueInQuantityG": 0.5125589599999999
+            }
+          ]
+        },
+        {
+          "name": "Riboflavin",
+          "totalG": 1.7689642399999999,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.13,
+              "valueInQuantityG": 0.19499999999999998
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.347,
+              "valueInQuantityG": 1.5739642399999998
+            }
+          ]
+        },
+        {
+          "name": "Niacin",
+          "totalG": 7.959385599999999,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 1.738,
+              "valueInQuantityG": 2.6069999999999998
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 1.18,
+              "valueInQuantityG": 5.3523856
+            }
+          ]
+        },
+        {
+          "name": "Vitamin B6",
+          "totalG": 1.05228024,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.257,
+              "valueInQuantityG": 0.3855
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.147,
+              "valueInQuantityG": 0.6667802399999999
+            }
+          ]
+        },
+        {
+          "name": "Folate",
+          "totalG": 402.72704,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 81,
+              "valueInQuantityG": 121.50000000000001
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 62,
+              "valueInQuantityG": 281.22704
+            }
+          ]
+        },
+        {
+          "name": "Vitamin B12",
+          "totalG": 0,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0,
+              "valueInQuantityG": 0
+            }
+          ]
+        },
+        {
+          "name": "Biotin",
+          "ingredients": []
+        },
+        {
+          "name": "Pantothenic acid",
+          "ingredients": []
+        },
+        {
+          "name": "Phosphorus",
+          "totalG": 327.4756,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 52,
+              "valueInQuantityG": 78
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 55,
+              "valueInQuantityG": 249.47560000000001
+            }
+          ]
+        },
+        {
+          "name": "Iodine",
+          "ingredients": []
+        },
+        {
+          "name": "Magnesium",
+          "totalG": 193.18536,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 29,
+              "valueInQuantityG": 43.5
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 33,
+              "valueInQuantityG": 149.68536
+            }
+          ]
+        },
+        {
+          "name": "Zinc",
+          "totalG": 2.7290088000000003,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.64,
+              "valueInQuantityG": 0.9600000000000001
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.39,
+              "valueInQuantityG": 1.7690088000000002
+            }
+          ]
+        },
+        {
+          "name": "Selenium",
+          "totalG": 4.682328,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.4,
+              "valueInQuantityG": 0.6
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.9,
+              "valueInQuantityG": 4.082328
+            }
+          ]
+        },
+        {
+          "name": "Copper",
+          "totalG": 0.52540376,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 0.19,
+              "valueInQuantityG": 0.285
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.053,
+              "valueInQuantityG": 0.24040376
+            }
+          ]
+        },
+        {
+          "name": "Manganese",
+          "ingredients": []
+        },
+        {
+          "name": "Chromium",
+          "ingredients": []
+        },
+        {
+          "name": "Molybdenum",
+          "ingredients": []
+        },
+        {
+          "name": "Chloride",
+          "ingredients": []
+        },
+        {
+          "name": "Choline",
+          "totalG": 23.567959999999996,
+          "ingredients": [
+            {
+              "name": "Avocado, raw",
+              "quantity": 150,
+              "value100G": 14.2,
+              "valueInQuantityG": 21.299999999999997
+            },
+            {
+              "name": "Kale, raw",
+              "quantity": 453.592,
+              "value100G": 0.5,
+              "valueInQuantityG": 2.26796
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
