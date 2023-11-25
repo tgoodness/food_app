@@ -75,7 +75,7 @@ function App() {
               // disply calories only
               if (item.nutrient.name.toLowerCase() === "calories") {
                 return (
-                  <>
+                  <div key={idx}>
                     <div className="flex justify-between items-center border-b-8 border-black">
                       <div>
                         <h5 className="font-bold text-l">Amount per serving</h5>
@@ -93,18 +93,19 @@ function App() {
                         % <strong>Daily Value*</strong>
                       </h6>
                     </div>
-                  </>
+                  </div>
                 );
               }
 
               //  has rdi and children
               if (item?.children) {
                 return (
-                  <>
+                  <div key={idx}>
                     <div className="flex justify-between border-b border-black">
                       <p>
                         <strong>{item.nutrient.name}</strong>{" "}
-                        {item.nutrient.amountRounded}{item.nutrient.unit}
+                        {item.nutrient.amountRounded}
+                        {item.nutrient.unit}
                       </p>
                       <p>
                         <strong>{item.rdi!.percentDailyValueRounded}</strong>%
@@ -117,7 +118,8 @@ function App() {
                         key={cIdx}
                       >
                         <p className={`ml-5 ${cItem?.rdi ? "" : "italic"}`}>
-                          {cItem.nutrient.name} {cItem.nutrient.amountRounded}{cItem.nutrient.unit}
+                          {cItem.nutrient.name} {cItem.nutrient.amountRounded}
+                          {cItem.nutrient.unit}
                         </p>
                         {cItem.rdi && (
                           <p>
@@ -129,21 +131,20 @@ function App() {
                         )}
                       </div>
                     ))}
-                  </>
+                  </div>
                 );
               }
 
               // has rdi only
               if (item?.rdi) {
                 return (
-                  <>
+                  <div key={idx}>
                     <div
                       className={`flex justify-between ${
                         item.nutrient.name.toLowerCase() === "protein"
                           ? "border-b-[13px]"
                           : "border-b"
                       } border-black`}
-                      key={idx}
                     >
                       <p>
                         <strong>{item.nutrient.name}</strong> 8g
@@ -152,7 +153,7 @@ function App() {
                         <strong>{item.nutrient.amountRounded}</strong>%
                       </p>
                     </div>
-                  </>
+                  </div>
                 );
               }
 
@@ -164,6 +165,7 @@ function App() {
                       ? "border-b-[13px]"
                       : "border-b"
                   } border-black`}
+                  key={idx}
                 >
                   <p>
                     {item.nutrient.name} {item.nutrient.amountRounded}
